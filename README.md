@@ -1,5 +1,7 @@
-# 💫About Me:
-Hi..<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> i'm Tapish Agrawal i'm Full stack developer with experience in Python, Django, HTML, CSS, Bootstrap, JavaScript, MySQL and React.js. Skilled in creating dynamic and interactive web solutions from concept to launch. Excited to bring my skills and experience to your team.
+<h1 align="center"> Hey!!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">I'm Tapish Agrawal</h1>
+<h1> 💫About Me:</h1>
+
+<h2>Full stack developer with experience in Python🐍, Django, HTML, CSS, Bootstrap, JavaScript, MySQL and React.js. Skilled in creating dynamic🔥 and interactive web solutions from concept to launch. Excited to bring my skills🤹‍♂️ and experience to your team.</h2>
 <img align='right' alt='coding' width='400px' src='https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif'>
 
 
