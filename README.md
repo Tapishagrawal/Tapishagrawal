@@ -1,6 +1,6 @@
 ![logo](https://github.com/Tapishagrawal/Tapishagrawal/blob/main/15e7e300166c962d3b8a22f60b5cac9e.gif)
 <h1 align="center"> Hey!!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">I'm Tapish Agrawal</h1>
-<h1> 💫About Me:</h1>
+<h1> 💫About Me:</h1> 
 
 <h2>MERN Full Stack Developer proficient in crafting dynamic web applications, leveraging a diverse skill set encompassing front-end and back-end technologies.</h2>
 <img align='right' alt='coding' width='400px' src='https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif'>
